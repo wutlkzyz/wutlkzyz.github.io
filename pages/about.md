@@ -1,18 +1,16 @@
 ---
 layout: page
 title: About
-description: 打码改变世界
-keywords: Zhuang Ma, 马壮
+description: 任天宇的博客
+keywords: Cyrusr Ren,Ren TianYu, 任天宇
 comments: true
 menu: 关于
 permalink: /about/
 ---
 
-我是马壮，码而生，码而立。
+我是任天宇，目前就读于武汉理工大学。
 
-仰慕「优雅编码的艺术」。
-
-坚信熟能生巧，努力改变人生。
+我喜欢编程，也会继续学习！
 
 ## 联系
 

@@ -16,9 +16,9 @@ side_bar_repo_limit: 5
 #      Author      #
 # ---------------- #
 author: Ren TianYu
-organization: zkh360.com
-organization_url: http://www.zkh360.com
-github_username: mzlogin
+organization: 武汉理工大学
+organization_url: ''
+github_username: CyrusRenty
 location: Wuhan, China
 email: cyrus.renty.gmail.com
 
@@ -67,7 +67,7 @@ lsi: false
 quiet: false
 excerpt_separator: "\n\n"
 permalink: /:year/:month/:day/:title/
-gems:
+plugins:
     - jekyll-github-metadata
     - rouge
 #     - jekyll-html-pipeline

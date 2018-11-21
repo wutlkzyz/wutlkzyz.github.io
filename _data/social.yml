@@ -1,27 +1,16 @@
 - sitename: GitHub
-  name: mzlogin
+  name: cyrusrenty
   url: https://github.com/mzlogin
 
-- sitename: 掘金
-  name: mzlogin
-  url: http://gold.xitu.io/user/570ddaeb2e958a005c63b2da
-
-- sitename: LinkedIn
-  name: mazhuang
-  url: https://www.linkedin.com/in/mazhuang
 
 - sitename: 博客
-  name: 码志
-  url: http://mazhuang.org
+  name: Cyuse Ren
+  url: https://cyrusrenty.github.io
 
 - sitename: 微博
-  name: mzlogin
-  url: http://weibo.com/mzlogin
+  name: 如果我叫任天宇
+  url: https://weibo.com/u/5172481230?nick=%E5%A6%82%E6%9E%9C%E6%88%91%E5%8F%AB%E4%BB%BB%E5%A4%A9%E5%AE%87&is_all=1
 
-- sitename: 知乎
-  name: mzlogin
-  url: http://www.zhihu.com/people/mzlogin
-
-- sitename: 豆瓣
-  name: 壮哥不胖
-  url: http://www.douban.com/people/freedim
+- sitename: 邮箱
+  name: CyrusRen@163.com
+  url: ''
