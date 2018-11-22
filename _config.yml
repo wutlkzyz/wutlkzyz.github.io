@@ -2,12 +2,12 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://cyrusrenty.github.io/
+url: https://wutlkzyz.github.io/
 date_format: "ordinal"
-title: Cyrus Ren
-subtitle: "任天宇的博客"
-description: "任天宇的个人博客"
-keywords: Cyrus Ren, Ren TianYu
+title: 武汉理工大学郎坤志愿服务队
+subtitle: "“Bare Care“贝壳行动自护课堂"
+description: "武汉理工大学郎坤志愿服务队"
+keywords: 坤,武汉理工大学,志愿服务,郎坤志愿服务队
 timezone: Asia/Shanghai
 encoding: "utf-8"
 side_bar_repo_limit: 5
@@ -15,12 +15,12 @@ side_bar_repo_limit: 5
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Ren TianYu
+author: 郎坤志愿服务队
 organization: 武汉理工大学
 organization_url: ''
-github_username: CyrusRenty
-location: Wuhan, China
-email: cyrus.renty.gmail.com
+github_username: 成立于2018年
+location: 武汉, 中国
+email: langkunzyfwd@163.com
 
 # ---------------- #
 #    Navigation    #
@@ -32,7 +32,7 @@ navs:
 
   -
     href: /categories/
-    label: 分类
+    label: 教案
 
 #   -
 #     href: /archives/
@@ -87,7 +87,7 @@ repository: mzlogin/mzlogin.github.io
 #      Comments    #
 # ---------------- #
 # support provider: disqus, gitment, gitalk
-comments_provider: gitalk
+comments_provider: ''
 # !!!重要!!! 请修改下面这些信息为你自己申请的
 # !!!Important!!! Please modify infos below to yours
 # https://disqus.com
