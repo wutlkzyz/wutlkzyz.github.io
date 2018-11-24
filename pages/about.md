@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: 关于我们
 description: 武汉理工大学郎坤志愿服务队
 keywords: 武汉理工大学, 郎坤志愿服务队
 comments: true
@@ -14,6 +14,8 @@ permalink: /about/
 累计开展关爱行动1500次，出动志愿者8000人次，服务时间34000余小时，捐赠价值100余万元的善款及物资。
 
 相关案例入选《共青团关爱农民工子女志愿服务行动工作案例》
+
+![](/assets/images/hz.jpg)
 
 ## 获奖情况
 ![](/images/huojiang.png)

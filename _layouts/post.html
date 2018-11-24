@@ -19,6 +19,13 @@ layout: default
             <a href="{{ site.url }}/categories/#{{ cat }}" title="{{ cat }}">{{ cat }}</a>
           </span>
           {% endfor %}
+
+                    {% for cat in page.description %}
+          <span class="meta-info">
+            <span class="octicon octicon-file-directory"></span>
+            {{ cat }}
+          </span>
+          {% endfor %}
         </div>
       </div>
     </div>
