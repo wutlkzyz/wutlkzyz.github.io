@@ -1,15 +1,15 @@
-- sitename: GitHub
-  name: cyrusrenty
-  url: https://github.com/mzlogin
+- sitename: 微信
+  name: WUT郎坤志愿服务队
+  url: ''
 
 
-- sitename: 博客
-  name: Cyuse Ren
-  url: https://cyrusrenty.github.io
+- sitename: 官方QQ
+  name: 3226178030
+  url: ''
 
 - sitename: 微博
-  name: 如果我叫任天宇
-  url: https://weibo.com/u/5172481230?nick=%E5%A6%82%E6%9E%9C%E6%88%91%E5%8F%AB%E4%BB%BB%E5%A4%A9%E5%AE%87&is_all=1
+  name: WUT郎坤志愿服务队
+  url: https://weibo.com/u/2421686020?is_hot=1
 
 - sitename: 邮箱
   name: CyrusRen@163.com
